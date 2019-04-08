@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\bin\Debug\Pi.exe.config
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\bin\Debug\Pi.exe
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\bin\Debug\Pi.pdb
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.Form1.resources
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.Properties.Resources.resources
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.exe
+C:\Users\foi.LABOS\Documents\dcrnek\Pi\Pi\obj\Debug\Pi.pdb
